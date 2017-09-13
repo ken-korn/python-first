@@ -2,10 +2,10 @@
 # To change this template file, choose Tools | Templates
 # and open the template in the editor.
 
-_author__ = 3
+__author__ = 3
 __date__ = "$12-set-2017 9.38.33$"
 
-if _author__ == 3:
+if __author__ == 3:
     print __author__
 else :
     print "OMar"
