@@ -1,5 +1,6 @@
 {
     "name": "elisac",
     "one" : 2,
-    "branch" : "This is the second branch"
+    "branch" : "This is the second branch",
+    "merge" : 122222
 }
