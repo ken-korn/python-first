@@ -1,3 +1,3 @@
 # python-first
-exercises
+A project example
 
